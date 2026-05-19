@@ -1,5 +1,7 @@
 # Cultura-Digital-Trabajo-En-Clase
-Integrantes: 
+
+
+### Integrantes: 
 
 
 · Líder de proyecto: Jafet Marquez
