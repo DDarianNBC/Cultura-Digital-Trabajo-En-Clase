@@ -1,0 +1,12 @@
+## Funciones principales:
+- Calendario académico
+- Recordatorio de tareas
+- Chat estudiantil
+
+##Ventajas:
+- Mejor organización
+- Comunicación rápida
+
+## Posibles mejoras futuras:
+- Integración con IA
+- Aplicación móvil
