@@ -1,6 +1,3 @@
-# Cultura-Digital-Trabajo-En-Clase
-
-
 # SmartCampus
 
 ## Objetivo
