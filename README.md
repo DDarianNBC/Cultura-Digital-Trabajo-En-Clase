@@ -1,13 +1,13 @@
-# SmartCampus
+# Proyecto Menú-U y Radar de Eventos
 
-## Objetivo
-Crear una plataforma tecnológica para mejorar la vida estudiantil.
+## Objetivo: 
+## Mostrar los menús y precios diarios del campus, e incluir un radar que alerte sobre eventos cercanos (charlas, ferias, exposiciones) que ofrezcan comida gratis o refrigerios.
 
-## Problema que resuelve
-Los estudiantes tienen dificultades para organizar tareas y horarios.
+## Problema que resuelve: 
+Caminar de bar en bar buscando qué comer, no saber si el dinero alcanza, y perderse eventos académicos que dan beneficios gratuitos.
 
-## Público objetivo
-Estudiantes y docentes.
+## Público objetivo: 
+Estudiantes y personal de la universidad.
 
 ## Integrantes y roles
 
